@@ -1,0 +1,23 @@
+{
+  "name": "cs-20200330",
+  "version": "1.0.0",
+  "description": "Movie DB CLI APP",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/crsmith0511/cs-20200330.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/crsmith0511/cs-20200330/issues"
+  },
+  "homepage": "https://github.com/crsmith0511/cs-20200330#readme",
+  "dependencies": {
+    "commander": "^5.0.0",
+    "node-fetch": "^2.6.0"
+  }
+}

@@ -1,8 +1,10 @@
 {
-  "name": "cs-20200330",
+  "name": "moviesdb",
   "version": "1.0.0",
   "description": "Movie DB CLI APP",
   "main": "index.js",
+  "preferGlobal": true,
+  "bin": "./commands.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },

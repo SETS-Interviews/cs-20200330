@@ -26,6 +26,10 @@ $ npm install
 ```sh
 $ npm link
 ```
+If link is not connecting: 
+```sh
+$ sudo npm link
+```
 
 ### Test
 
